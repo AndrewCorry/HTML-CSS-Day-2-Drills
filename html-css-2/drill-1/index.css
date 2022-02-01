@@ -1,0 +1,40 @@
+h1{
+    color: rgb(104, 104, 104);
+    background-color: rgb(104, 104, 104);
+    width: 102%;
+    height: 150px;
+    position: relative;
+    align-items: center;
+   margin: 0%;
+   margin-left: -10px;
+   border: rgb(104, 104, 104);
+}
+
+div{
+    color: lightgray;
+    background-color: lightgray;
+    width: 120px;
+}
+
+
+
+footer{
+    align-items: baseline;
+    width: 135%;
+    height: 60px;
+    margin: 662px -700px;
+    background-color: black;
+    z-index: 1;
+}
+#left{
+    position: absolute;
+    left: 0px;  
+    height: 722px;
+    z-index: 2;
+}
+#right{
+    position: absolute;
+    right: 0px;  
+    height: 272px;  
+    z-index: 2;
+}
